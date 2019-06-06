@@ -1,1 +1,3 @@
-resource "null_resource" "example" {}
+resource "null_resource" "rage" {}
+
+resource "null_resource" "against" {}
